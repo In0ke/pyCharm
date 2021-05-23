@@ -3,9 +3,9 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="python">
+      <debugger id="javascript">
         <configuration>
-          <option name="watchReturnValues" value="true" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
