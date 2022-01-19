@@ -11,4 +11,8 @@
   <component name="EditorSettings">
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
